@@ -40,7 +40,6 @@ Estos términos se rigen por la legislación española.
 
 ## 7. Contacto
 
-[TU_EMAIL]
-
+mangelgon.dev@gmail.com
 ---
 *Términos efectivos desde mayo 2026.*
