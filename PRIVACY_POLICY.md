@@ -49,7 +49,7 @@ con la fecha de actualización correspondiente.
 ## 7. Contacto
 
 Para cualquier pregunta relacionada con la privacidad
-puedes contactarnos en: [TU_EMAIL]
+puedes contactarnos en: mangelgon.dev@gmail.com
 
 ---
 *Política efectiva desde mayo 2026.*
